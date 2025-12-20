@@ -3,18 +3,22 @@ project:
   output-dir: docs
 
 website:
-  title: "Perla Website"
+  title: ""
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      - text: '<img src="images/3.webp" alt="Logo" style="height:30px; margin-right:10px;"> Home'
+        href: index.qmd
+      - text: PerLa e.V.
+        href: about.qmd
+      - text: Logbuch
+        href: Logbuch.qmd
 
 format:
   html:
     theme: darkly
     css: styles.css
     toc: true
+
 
 editor: visual
 

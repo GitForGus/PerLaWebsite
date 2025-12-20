@@ -2,18 +2,23 @@
 title: "Logbuch"
 ---
 
-01.01.2021 Vereinsgründung
+![Dezember 21](images/5.jpg){width="400px"}
 
-05.01.2021 Hybris
+14.01.2023 Gründungssitzung des Vereins
 
-10.01.2021 Katharsis
+22.06.2023 Wir sind ein e.V!
 
-14.01.2021 Debris
+26.10.2023 Das Haus ist unser!
 
-20.01.2021 Pubis
+21.03.2024 Bauantrag eingereicht...
 
-29.01.2021 Imbis
+27.02.2025 Baugenehmigung!
 
-32.01.2021 Sepsis
+20.12.2025 Website ist da!
 
-13.12.2025 WEBSITE
+
+![](images/1.jpg){width="400px"}
+
+![](images/2.jpg){width="400px"}
+
+Daten Kreditbewilligung, Erbbaupacht?

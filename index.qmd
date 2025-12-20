@@ -4,4 +4,6 @@ title: "Perspekive Landhaus in Vorpommern e.V."
 
 Kuckuck du Vogel,
 
-schön, dass du hier bist!
+da du schon mal hier bist, mach' doch mit!
+
+![](images/gesuch.png){width=600px}
